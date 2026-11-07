@@ -1,0 +1,10 @@
+[
+  {
+    "company": "Empresa Ejemplo",
+    "url": "https://empresa-ejemplo.example.com/jobs"
+  },
+  {
+    "company": "Otra Empresa",
+    "url": "https://otra-empresa.example.com/jobs"
+  }
+]

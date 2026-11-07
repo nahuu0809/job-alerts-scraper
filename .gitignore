@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# configuración local y secretos
+.env
+.env.*
+!.env.example
+config.json
+
+# estado y logs generados en ejecución
+seen_jobs.db
+*.db
+*.sqlite3
+*.log
+app.log*
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

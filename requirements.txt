@@ -1,0 +1,7 @@
+playwright
+python-telegram-bot
+aiosqlite
+aiohttp
+pydantic
+fake-useragent
+playwright-stealth
