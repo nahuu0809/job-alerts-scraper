@@ -68,3 +68,17 @@ python main.py
 - `config.json`, `.env` y `seen_jobs.db` no se suben al repositorio (ver `.gitignore`).
 - Mantené las pausas entre pedidos y revisá los términos de uso de cada portal.
 - Proyecto personal: no tiene tests y no está pensado para producción.
+
+## Créditos
+
+Este proyecto se apoya en bibliotecas de código abierto, que no están incluidas:
+
+- [Playwright para Python](https://playwright.dev/python/) (Microsoft, Apache-2.0)
+- [playwright-stealth](https://github.com/Mattwmaster58/playwright_stealth) (MIT)
+- [python-telegram-bot](https://python-telegram-bot.org) (LGPL-3.0)
+- [fake-useragent](https://github.com/fake-useragent/fake-useragent) (Apache-2.0)
+- [aiosqlite](https://github.com/omnilib/aiosqlite) y [Pydantic](https://github.com/pydantic/pydantic)
+
+## Licencia
+
+Código bajo [licencia MIT](LICENSE). © 2026 Nahuel Emiliano Diaz.
